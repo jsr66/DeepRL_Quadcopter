@@ -24,6 +24,6 @@ jupyter notebook Quadcopter_Project.ipynb
 4. Before running code, change the kernel to match the `quadcop` environment by using the drop-down menu (**Kernel > Change kernel > quadcop**). Then, follow the instructions in the notebook.
 
 ## Notes
-1. The environment, in which the task of landing softly is specified via a particular choice of reward function, is contained in task_new2.py
+1. The environment, in which the task of landing softly is specified via a particular choice of reward function, is contained in task_new.py
 
-2. The DDPG agent is in agents/agent_new2.py
+2. The DDPG agent is in agents/agent_new.py
